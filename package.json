@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev-tailwind": "vite"
+    "dev-tailwind": "vite",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
