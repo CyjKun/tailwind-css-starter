@@ -1,18 +1,26 @@
 {
-    "name": "tailwin-css-starter",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "dev": "vite"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "autoprefixer": "^10.2.5",
-        "postcss": "^8.2.13",
-        "tailwindcss": "^2.1.2",
-        "vite": "^2.2.3"
-    }
+  "name": "tailwin-css-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev-tailwind": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyjKun/tailwin-css-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyjKun/tailwin-css-starter/issues"
+  },
+  "homepage": "https://github.com/CyjKun/tailwin-css-starter#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.2.3"
+  }
 }
