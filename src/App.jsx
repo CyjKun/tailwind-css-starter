@@ -36,7 +36,7 @@ export default function App() {
         <div className="hidden relative lg:block 2xl:col-span-3">
           <img
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src="/img/beach-work.jpg"
+            src="./img/beach-work.jpg"
             alt="Woman workcationing on the beach"
           />
         </div>
