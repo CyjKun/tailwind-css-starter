@@ -12,7 +12,7 @@ export default function App() {
             <img className="h-10" src="/img/logo-brand.svg" alt="Workcation" />
             <img
               className="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-64 sm:w-full sm:object-cover object-center lg:hidden"
-              src="/img/beach-work.jpg"
+              src="./img/beach-work.jpg"
               alt="Woman workcationing on the beach"
             />
             <h1 className="mt-6 text-2xl font-headline tracking-tight font-semibold text-gray-900 sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl">
