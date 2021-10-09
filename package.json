@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev-tailwind": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "serve": "vite preview --port 8080"
   },
   "repository": {
     "type": "git",
